@@ -40,25 +40,4 @@
       Alternative Courses
 1.If user does not have school email address prompt error message.
 
-4.0 Use Case: User Register Classess 
-      Actors: Student or Professor
-      Overview: Actor uses password to verify their identity 
-
-      Typical Course of Events
-1. Page Prompts all of the classes the University offers
-2. Users are able to click on the classes they are registered for
-3. Users add classes to their schedule
-      Alternative Courses
-      Step 2: Invalid Class
-      1. Display error message class does not exist 
-5.0 Use Case: User Register Classess 
-      Actors: Student or Professor
-      Overview: Actor uses password to verify their identity 
-
-      Typical Course of Events
-1. Page Prompts all of the classes the University offers
-2. Users are able to click on the classes they are registered for
-3. Users add classes to their schedule
-      Alternative Courses
-      Step 2: Invalid Class
-      1. Display error message class does not exist 
+//QR code for professor to registar 
