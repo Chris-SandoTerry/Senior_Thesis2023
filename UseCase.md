@@ -40,4 +40,27 @@
       Alternative Courses
 1.If user does not have school email address prompt error message.
 
-//QR code for professor to registar 
+4.0 Use Case: User/Account quality
+      Actors: Student or Professor
+      Overview: Actor uses email to verify their role
+
+      Typical Course of Events
+1. System will use actors registered email 
+2. User will then proceed according to what role they are student/professor 
+ 
+      Alternative Courses
+      1. If email is invalid or not registed with school display error message.
+      2. Bring user to the main sign up page.
+  
+5.0 Use Case: User will genrate QR code 
+      Actors: Professor
+      Overview: Actor will use a button to generate an QR code
+
+      Typical Course of Events
+1. System will use actors registered email 
+2. User will then proceed according to what role they are student/professor 
+ 
+      Alternative Courses
+      1. If email is invalid or not registed with school display error message.
+      2. Bring user to the main sign up page.
+
