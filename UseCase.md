@@ -63,4 +63,28 @@
       Alternative Courses
       1. If email is invalid or not registed with school display error message.
       2. Bring user to the main sign up page.
+   
+6.0 Use Case: User will Scan code
+      Actors: Student
+      Overview: Actor will use camera to scan QR Code
+
+      Typical Course of Events
+1. System will use actors camera to scan propmted QR code  
+2. User will then verify the QR scan code
+ 
+      Alternative Courses
+      1. If QR is not readable display error message.
+      2. Reset user camera focus 
+
+7.0 Use Case: User will have a roster
+      Actors: Professor
+      Overview: Actor will see all the students who scanned the QR code
+
+      Typical Course of Events
+1. System will tally up all the student who scans QR code
+2. Actor will see a green light if the user scanned QR code if not it will appear red.
+ 
+      Alternative Courses
+      1. If QR code is not the new one, User will be prompted then to make a new one.
+      2. If it is under wrong class and students  who scan are not registered under that class, an error message will be prompted.
 
